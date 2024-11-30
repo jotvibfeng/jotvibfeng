@@ -1,9 +1,5 @@
-## Hi there 👋 My name is Joakim Tviberg Fengaas 29 years old and living in Norway timezone UTC +0
+## Hi there 👋 
 
+My name is Joakim Tviberg Fengaas 29 years old and living in Norway timezone UTC +0. I am a Frontend development student at Noroff and have been studying for now over to year part-time have learned incredible things about design and code languages such as HTML, CSS, and JS recently as well as CSS framework which is interesting and makes it easier to design website responsive. I am looking forward to learning more things this year too.     
 
-- 🔭 I’m currently working on my first portfolio.
-- 🌱 I’m currently studying at Noroff to become a front-end developer. I have learned HTML, CSS, Javascript, CMS, and web design. 
-- 🤔 I’m looking for help making web products more user-friendly and solving problems people have on the internet. 
-- 📫 How to reach me: you can contact me on my LinkedIn page https://www.linkedin.com/in/joakim-tviberg-feng%C3%A5s-616200254/.
-- ⚡ Fun fact: I like traveling to new and interesting places that I have never been to before I also like watching football my favorite team is Arsenal.   
--->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joakimtvibergfengaas&theme=dark&show_icons=true)
