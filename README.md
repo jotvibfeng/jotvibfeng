@@ -1,9 +1,10 @@
 
 # Hi there 👋, my name is Joakim
 ## Frontend student
-![Frontend student](<img width="1242" height="2208" alt="238F5448-B839-4EE1-BD69-EFC89E3BF2F1" src="https://github.com/user-attachments/assets/79519f95-c42a-4282-bbd7-f6b19bf43f94" />
+![Frontend student](<<img width="1225" height="742" alt="Skjermbilde 2024-11-30 kl  17 34 37" src="https://github.com/user-attachments/assets/3a3c5424-91a8-41fc-8b6c-7d5b0a2f9333" />
+>
 )
-My name is Joakim Tviberg Fengaas, 31 years old, living in the Norway time zone (UTC +0). I am a Frontend development student who is graduating from Noroff and have been studying for four years part-time. I have learned a lot since I started, and I am proud to say I'm a frontend developer now and feel great to say that now; I have specialized myself in React, and my further plan is to learn about backend so I can get more opportunities. I'm now looking for work, and I am excited to see where this is taking me.
+My name is Joakim Tviberg Fengaas. I am 31 years old, and I live in the Norway time zone (UTC +0). I am a Frontend development student who is graduating from Noroff and have been studying for four years part-time. I have learned a lot since I started, and I am proud to say I'm a frontend developer now and feel great to say that now; I have specialized myself in React, and my further plan is to learn about backend so I can get more opportunities. I'm looking for work now, and I am excited to see where this takes me.
 
 ## Skills
 ⚛️: TAILWIND / CSS
